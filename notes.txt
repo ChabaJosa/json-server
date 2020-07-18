@@ -1,0 +1,5 @@
+Must run in separate terminal windows "npm run tunnel" and "npm run db", 
+only after running npm init, npm i, installing the libraries and
+modifying the package.json.
+
+Note: "npm run tunnel" creates 8 hour session after that the server has to be restared and the links change.
