@@ -1,4 +1,9 @@
 {
-    "blogpost": []
-
+  "blogpost": [
+    {
+      "id": 1,
+      "title": "Test Post from DB",
+      "content": "content from my DB file"
+    }
+  ]
 }
