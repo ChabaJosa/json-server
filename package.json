@@ -9,8 +9,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "db": "json-server -w db.json",
-    "tunnel": "ngrok http 3000"
+    "db": "json-server -w db.json -p 3005",
+    "tunnel": "ngrok http 3005"
   },
   "author": "",
   "license": "ISC"
